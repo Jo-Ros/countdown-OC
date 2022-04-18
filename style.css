@@ -1,0 +1,23 @@
+body {
+    background-image: url('./images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 3rem;
+    color: rgb(76, 27, 122);
+}
+
+.countdown {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
